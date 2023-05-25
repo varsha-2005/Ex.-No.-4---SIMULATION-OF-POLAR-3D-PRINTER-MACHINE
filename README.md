@@ -27,14 +27,63 @@
 
 ## OUTPUT:
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a)
+![240903824-b1ee8c70-0c1e-44df-bc5d-1dbfd050a4e9](https://github.com/MavillaPranathi/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/118343610/aa68b134-5e45-4fd1-9e14-cafe1e421002)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
+Y-AXIS BASE :
 
-## Output:
+The base of the printer that supports the rest of the components.
 
-### Name:
-### Register Number:
+Z-AXIS FRAME :
+
+This is the frame that holds the print head and moves it up and down along the vertical axis.
+
+SMOOTH RODS :
+
+The smooth rods that provide smooth and accurate movement of the Z-axis frame.
+
+MOTORS :
+
+provide the power to move the Z-axis frame and the print head.
+
+EXTRUDER SUPPORTER :
+
+The support structure that holds the extruder assembly.
+
+THREADED ROD :
+
+Threaded rod that provides the power to move the Z-axis frame up and down.
+
+Y-AXIS FRAME :
+
+The frame that moves the print head in the horizontal plane.
+
+MOTOR WITH GEAR :
+
+provides the power to move the Y-axis frame.
+
+MOTOR-WITH-PULLEY :
+
+provides the power to move the Z-axis frame.
+
+GEARS :
+
+Transfer power from the stepper motors to the threaded rod and the smooth rods.
+
+PLATE :
+
+plate where the printed object is created.
+
+EXTRUDER :
+
+melts and extrudes the filament to create the printed object.
+
+FILAMENT :
+
+material that is used to create the printed object.
+
+
+### Name:varsha.g
+### Register Number:212222230166
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
